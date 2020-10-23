@@ -1,2 +1,11 @@
 language: java
 
+jdk:
+  - oraclejdk9
+  - openjdk8
+
+
+env:
+  - FOO=1
+  - FOO=2
+  - FOO=3
