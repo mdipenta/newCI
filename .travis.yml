@@ -1,2 +1,4 @@
 language: java
 
+notifications:
+  slack: sweng-group:Hv52dmz9aJfneiLfC9cd5ib4
