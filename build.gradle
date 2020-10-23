@@ -9,5 +9,8 @@ dependencies{
     testImplementation group: 'junit', name: 'junit', version: '4.2'
 }
 
+check.doFirst{
+  println System.getenv("FOO")
+}
 
 
