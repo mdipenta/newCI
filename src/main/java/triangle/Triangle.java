@@ -10,7 +10,7 @@ public class Triangle {
 	};
 	
 	public static TriangleType classify(int a, int b, int c) {
-        trian;
+        int trian;
 	String s;
 	s=new String();
 	if(s=="a" & a==c)
