@@ -1,11 +1,4 @@
 language: java
 
-jdk:
-  - oraclejdk9
-  - openjdk8
-
-
-env:
-  - FOO=1
-  - FOO=2
-  - FOO=3
+notifications:
+  slack: sweng-group:Hv52dmz9aJfneiLfC9cd5ib4
