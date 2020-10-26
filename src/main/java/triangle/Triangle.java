@@ -1,5 +1,5 @@
 package triangle;
-//triangle comment ++
+//triangle comment 
 public class Triangle { 
 
 	public static enum TriangleType {
