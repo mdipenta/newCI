@@ -7,3 +7,5 @@ jobs:
       script: gradle compileJava
     - stage: test
       script: gradle test
+    - stage: package
+      script: gradle jar
